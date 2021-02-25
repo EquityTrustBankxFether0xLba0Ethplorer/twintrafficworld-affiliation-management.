@@ -1,5 +1,5 @@
 @app
-Affiliate-Pyramid-TwinTrafficWorld
+begin-app
 
 @http
 get /foo
